@@ -29,7 +29,7 @@ print(result)
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![gitlogo](expo.png)
 ![gitlogo](output.png)
 
 
