@@ -29,7 +29,7 @@ print(result)
 ```
 
 ## Output:
-![gitlogo](expo.PNG)
+
 ![gitlogo](Output.png)
 
 
